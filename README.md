@@ -1,1 +1,1 @@
-[![Chillhopper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillhopper)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Chillhopper&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
