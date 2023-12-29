@@ -1,6 +1,7 @@
-<p align="left" style="width: 60%; max-width: 300px; margin-left: 0%;">
-  <img src="https://kasroudra-stats-card.onrender.com/user?user=Chillhopper&layout=compact&theme=buefy" alt="GitHub Stats Card" style="width: 60%; display: block;" />
-</p>
-<p align="left" style="width: 60%; max-width: 300px; margin-left: 440px;"> <!-- Adjust the margin-left value as needed -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chillhopper&layout=compact" alt="Top Languages" style="width: 60%; display: block;" />
-</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://kasroudra-stats-card.onrender.com/user?user=Chillhopper&layout=compact&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chillhopper&layout=compact" />
+</a>
